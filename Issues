@@ -1,0 +1,5 @@
+In the pdf it is  mentioned that the code should follow a microservice architecture. While I understand the benefits of microservices, I must admit that I am more comfortable with other architectural patterns such as MVC or Clean Architecture. Given this, I wanted to inquire if it would be acceptable to develop my solution using either MVC or Clean Architecture instead of microservices.
+
+Your guidance on this matter would be greatly appreciated, as it will help me align my approach with the hackathon's requirements.
+
+Thank you for your time, and I look forward to hearing from you soon.
